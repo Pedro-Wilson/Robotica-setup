@@ -327,17 +327,9 @@ Confira se o nome está exatamente como no guia: `pedro3223/ros2-foxy-turtlebot3
 
 ---
 
+---
 <div align="center">
 
-<br>
-
-
-
-<sub>Setup Robótica</sub>
-
-
-<br>
-![Robotica Setup - Pedro Wilson](banner-tux.gif)
-
+<img src="tux-acenando.gif" alt="Tux acenando: viva o Linux" width="100%">
 
 </div>
