@@ -232,18 +232,51 @@ Dentro dele, rode:
 ros2 run turtlebot3_teleop teleop_keyboard
 ```
 
+
 Use as teclas para mover o robô:
 
 <div align="center">
-
-| Tecla | Ação |
-| :---: | :--- |
-| <kbd>W</kbd> | Aumentar a velocidade linear |
-| <kbd>X</kbd> | Diminuir a velocidade linear |
-| <kbd>A</kbd> | Girar para a esquerda |
-| <kbd>D</kbd> | Girar para a direita |
-| <kbd>S</kbd> | Parar o robô |
-
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <!-- Coluna da Imagem (com altura controlada para alinhar com a tabela) -->
+    <td align="center" valign="middle" style="border: none; padding-right: 30px;">
+      <img height="150" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/9eb9f938-dd58-4e6c-a2b4-b170b495b109" />
+    </td>
+    <!-- Coluna da Tabela de Comandos em HTML puro para garantir a renderização correta -->
+    <td valign="middle" style="border: none;">
+      <table>
+        <thead>
+          <tr>
+            <th align="center">Tecla</th>
+            <th align="left">Ação</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center"><kbd>W</kbd></td>
+            <td align="left">Aumentar a velocidade linear</td>
+          </tr>
+          <tr>
+            <td align="center"><kbd>X</kbd></td>
+            <td align="left">Diminuir a velocidade linear</td>
+          </tr>
+          <tr>
+            <td align="center"><kbd>A</kbd></td>
+            <td align="left">Girar para a esquerda</td>
+          </tr>
+          <tr>
+            <td align="center"><kbd>D</kbd></td>
+            <td align="left">Girar para a direita</td>
+          </tr>
+          <tr>
+            <td align="center"><kbd>S</kbd></td>
+            <td align="left">Parar o robô</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
