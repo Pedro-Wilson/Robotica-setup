@@ -359,8 +359,6 @@ Confira se o nome está exatamente como no guia: `pedro3223/ros2-foxy-turtlebot3
 </details>
 
 ---
-
----
 <div align="center">
 
 <img src="tux-acenando.gif" alt="Tux acenando: viva o Linux" width="100%">
